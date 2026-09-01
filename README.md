@@ -158,7 +158,7 @@ online-shopper-intention-prediction/
 
 ## Author
 
-**Rudra Narayan Nayak**
+**Nageshwar Tiwari**
 
 - LinkedIn: https://www.linkedin.com/in/nageshwartiwari/
 - GitHub: https://github.com/nageshwar1320
