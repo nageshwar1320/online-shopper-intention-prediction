@@ -160,5 +160,5 @@ online-shopper-intention-prediction/
 
 **Rudra Narayan Nayak**
 
-- LinkedIn: https://linkedin.com/in/rudra-narayan-nayak
-- GitHub: https://github.com/Rudra-Nayak
+- LinkedIn: https://www.linkedin.com/in/nageshwartiwari/
+- GitHub: https://github.com/nageshwar1320
